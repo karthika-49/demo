@@ -1,4 +1,4 @@
 # demo
 Demo repository
 <br>
-Author - Karthika
+Author - Karthika Bingi
